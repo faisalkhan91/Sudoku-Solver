@@ -2,9 +2,8 @@
 
 #############################################################################################
 #                               Program by Mohammed Faisal Khan                             #
-#                               00598949                                                    #
-#                               mkhan8@unh.newhaven.edu                                     #
-#                               Created on March 4, 2018                                 #
+#                               Email: faisalkhan91@outlook.com                             #
+#                               Created on March 4, 2018                                    #
 #############################################################################################
 
 # References
